@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá, seja bem vindo(a) 👋
 
 ## Maria Cantalice 
 
