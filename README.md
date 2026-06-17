@@ -11,7 +11,7 @@
 ##### -Fundamentos de banco de dados
 ##### -Básico de excel
 ##### -Básico do Front-end 
-##### -Back-end Python (Em desenvolvimento)
+##### -Back-end Python e Django
 
 
 #### Tenho interesse em áreas como desenvolvimento de software e soluções digitais que promovam inovação.
